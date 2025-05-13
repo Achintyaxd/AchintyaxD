@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achintya Talikoti</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Email: achintya15talikoti@gmail.com: </h3>
 <p align="left">
 </p>
 
