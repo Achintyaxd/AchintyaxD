@@ -11,7 +11,7 @@
 - I’m interested in Machine/Deep Learning and Data Science
 - Experienced in predictive models using **Python** and scripting
 - Always happy to chat about automation, AI, systems design, or random tech stuff
-
+- Feel free to reach out at: [achintya15talikoti@gmail.com](mailto:achintya15talikoti@gmail.com)
 ---
 
 
