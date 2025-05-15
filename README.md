@@ -5,16 +5,12 @@
 <p align="left">
 </p>
 
-### 🚀 About Me
+### About Me
 
-- 👨🏽‍💻 Currently working as a Software Engineer at **Betsol**.
-- 🧠 Actively exploring **LLMs**, **Retrieval-Augmented Generation (RAG)**, and efficient generative AI systems.
-- 🔧 Experienced in automating end-to-end workflows using **Python**, scripting, and backend tools.
-- 🧪 Tinkering with full-stack projects involving **Flutter**, **Firebase**, and React.
-- 🛠️ Built a conference paper on blockchain titled  
-  [**Blockchain as a Service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting), presented at **NCCT-ICT**.
-- 💬 Always happy to chat about automation, AI, systems design, or random tech stuff.
-- 📫 Reach me at: [phoenix2810@proton.me](mailto:phoenix2810@proton.me)
+- Actively exploring LLMs and efficient generative AI systems
+- I’m interested in Machine/Deep Learning and Data Science
+- Experienced in predictive models using **Python** and scripting
+- Always happy to chat about automation, AI, systems design, or random tech stuff
 
 ---
 
