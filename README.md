@@ -5,6 +5,20 @@
 <p align="left">
 </p>
 
+### 🚀 About Me
+
+- 👨🏽‍💻 Currently working as a Software Engineer at **Betsol**.
+- 🧠 Actively exploring **LLMs**, **Retrieval-Augmented Generation (RAG)**, and efficient generative AI systems.
+- 🔧 Experienced in automating end-to-end workflows using **Python**, scripting, and backend tools.
+- 🧪 Tinkering with full-stack projects involving **Flutter**, **Firebase**, and React.
+- 🛠️ Built a conference paper on blockchain titled  
+  [**Blockchain as a Service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting), presented at **NCCT-ICT**.
+- 💬 Always happy to chat about automation, AI, systems design, or random tech stuff.
+- 📫 Reach me at: [phoenix2810@proton.me](mailto:phoenix2810@proton.me)
+
+---
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
